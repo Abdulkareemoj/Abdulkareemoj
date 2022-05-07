@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulkareem</h1>
-<h3 align="center">A Web Developer from Nigeria</h3>
+<h3 align="center">A Web Developer</h3>
 
 
 <p align="left"> <a href="https://twitter.com/abdulkareemoj" target="blank"><img src="https://img.shields.io/twitter/follow/abdulkareemoj?logo=twitter&style=for-the-badge" alt="abdulkareemoj" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJS and Svelte**
+- 🌱 I’m currently learning **ReactJs, Node.JS and Svelte**
 
 - 📫 How to reach me **abdulkareemojerinde@gmail.com**
 

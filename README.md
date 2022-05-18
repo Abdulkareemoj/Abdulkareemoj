@@ -21,4 +21,3 @@
 <h3 align="left">GitHub Stats</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulkareemoj&show_icons=true&locale=en&layout=compact" alt="abdulkareemoj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkareemoj&" alt="abdulkareemoj" /></p>

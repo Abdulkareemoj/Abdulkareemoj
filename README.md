@@ -1,6 +1,7 @@
 # 💫About Me :
 Hi 👋, I'm Abdulkareem
-🌱 I'm an aspiring full-stack Web Developer, Networking/DevOps Engineer currently learning and working with ReactJs, Node.JS and Svelte
+🌱 JavaScript/Typescript Noob, Networking/DevOps Engineering
+ Currently learning and working with ReactJs, Node.JS and Svelte
 
 I'm also open to remote internship opportunities and work currently
 

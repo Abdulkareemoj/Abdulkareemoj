@@ -2,7 +2,8 @@
 Hi 👋, I'm Abdulkareem
 🌱 JavaScript/Typescript, Elixr Noob, Network/DevOps Engineering
  Currently learning and working with ReactJs, NextJs, Node.Js and Svelte
- - Working on a link Shortener Full-stack Web App
+ - Working on a Link Shortening Full-stack Web App
+ - Building another version of my portfolio and maybe blog website
  
 I'm open to remote internship opportunities and work currently
 

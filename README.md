@@ -4,7 +4,7 @@ Hi 👋, I'm Abdulkareem
  Currently learning and working with ReactJs, NextJs, Node.Js and Svelte
  
  What im doing Right Now:
- - Working on a Link Shortening Full-stack Web App
+ - Working on a URL Shortener Full-stack Web App
  - Building another version of my portfolio and maybe blog website
  
 I'm open to remote internship opportunities and work currently

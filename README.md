@@ -8,7 +8,7 @@ Hopefully will get to work on other intrests with more languages and tools.
  
  What im doing Right Now:
   - Building another version of my portfolio and maybe blog website
-  - Building a 'what i use' page with Astro
+  - Building a Dynamic Blog with graphql and Nextjs
  
 I'm open to remote internship opportunities and work currently
 

@@ -7,7 +7,7 @@ Currently building, learning and working with ReactJs, NextJs, Node.Js and Svelt
 Hopefully will get to work on other intrests with more languages and tools.
  
  What im doing Right Now:
-  - Building another version of my portfolio and maybe blog website -90% Done
+  - Building another version of my portfolio and maybe blog website with Astro -90% Done
   - Building a Dynamic Blog with graphql and Nextjs- 70% Done
  
 I'm open to remote internship opportunities and work currently

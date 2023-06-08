@@ -1,7 +1,7 @@
 ## About Me :
 Hi :v:, I'm Abdulkareem,
 <br>
-:point_right: A _Noob_ Developer with general intrests in Network Engineering, DevOps/Cloud Engineering, Game Development And Operating Systems.
+:point_right: A dude with general intrests in Network Engineering, DevOps/Cloud Engineering, Game Development And Operating Systems.
 I mostly work on Web Stuff right now, both `Front and Back`-end with mainly JavaScript/Typescript, And other stuff in C, sometimes Elixir as languages.
 Currently building, learning and working with ReactJs, NextJs, Node.Js and Svelte.
 Hopefully will get to work on other intrests with more languages and tools.

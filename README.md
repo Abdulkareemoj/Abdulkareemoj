@@ -8,7 +8,9 @@ Hopefully will get to work on other intrests with more languages and tools.
  
  What im doing Right Now:
   - Building another version of my portfolio and maybe blog website with Astro - 90% Done
-  - Building a Dynamic Blog with graphql and Nextjs - 70% Done
+  - Building a REST api with Nodejs and Typescript  - 70% Done
+  - Learning and building web apps and servers with Deno
+  - Learning Lua
  
 I'm open to remote internship opportunities and work currently
 

@@ -2,7 +2,7 @@
 Hi :v:, I'm Abdulkareem,
 <br>
 :point_right: A dude with general intrests in Network Engineering, DevOps/Cloud Engineering, Game Development And Operating Systems.
-I mostly work on Web Stuff right now, both `Front and Back`-end with mainly JavaScript/Typescript, And other stuff in C, C#, sometimes Elixir as languages.
+I mostly work on Web Stuff right now, both `Front and Back`-end with mainly JavaScript/Typescript, C#, sometimes Elixir as languages.
 Currently building, learning and working with NextJS, Deno for web and C# for gamedev.
 Hopefully will get to work on other intrests with more languages and tools.
  

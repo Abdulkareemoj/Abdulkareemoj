@@ -4,13 +4,8 @@ Hi :v:, I'm Abdulkareem,
 :point_right: A dude with general intrests in Network Engineering, DevOps/Cloud Engineering, Game Development And Operating Systems.
 I mostly work on Web Stuff right now, both `Front and Back`-end with mainly JavaScript/Typescript, C#, sometimes Elixir as languages.
 Currently building, learning and working with NextJS, Nodejs and Deno for web and C# for gamedev mainly with Unity.
-Hopefully will get to work on other intrests with more languages and tools.
- 
- What im doing Right Now:
-  - Building another version of my portfolio and maybe blog website with Astro and PayloadCMS- 90% Done
-  - Learning and building web apps and servers with Deno
- 
-I'm open to remote internship opportunities and work currently
+Hopefully will get to work on other intrests with more languages and tools. 
+I'm open to remote internship opportunities and work currently.
 
 
 

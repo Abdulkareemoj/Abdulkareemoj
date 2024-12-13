@@ -11,7 +11,7 @@ Hi :v:, I'm Abdulkareem,
 ### 🌱 Always Learning:
 I aim to expand into other interests, experiment with new languages, and deepen my expertise across diverse tech stacks.
 
-###💼 Open to Opportunities:
+### 💼 Open to Opportunities:
 I'm actively seeking remote internships or collaboration opportunities to grow and contribute meaningfully.
 
 

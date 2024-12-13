@@ -1,7 +1,7 @@
 ## About Me :
 Hi :v:, I'm Abdulkareem,
 <br>
-:point_right: I’m passionate about Network Engineering, DevOps/Cloud Engineering, Game Development, and Operating Systems. While I mostly focus on web development at the moment, dabbling in both frontend and backend, I’m always eager to dive into new tools and technologies.
+:point_right: I’m passionate about Network Engineering, DevOps/Cloud Engineering, Game Development, and Operating Systems. I mostly focus on web development at the moment in both frontend and backend, I’m always eager to dive into new tools and technologies.
 
 ### 🔧 Current Stack:
 

@@ -8,11 +8,10 @@ Hi :v:, I'm Abdulkareem,
 - Building with Next.js, Node.js, and Deno for web development.
 - Exploring with C# for game development in Unity and Stride3D.
 - Occasionally using Elixir for its functional programming .
-### 🌱 Always Learning:
-I aim to expand into other interests, experiment with new languages, and deepen my expertise across diverse tech stacks.
+
 
 ### 💼 Open to Opportunities:
-I'm actively seeking remote internships or collaboration opportunities to grow and contribute meaningfully.
+I'm actively seeking remote work or collaboration opportunities to grow and contribute meaningfully.
 
 
 ## 🌐Socials

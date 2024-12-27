@@ -6,7 +6,7 @@ Hi :v:, I'm Abdulkareem,
 ### 🔧 Current Stack:
 
 - Building with Next.js, Node.js, and Deno for web development.
-- Exploring Unity with C# for game development in Stride3D.
+- Exploring with C# for game development in Unity and Stride3D.
 - Occasionally using Elixir for its functional programming .
 ### 🌱 Always Learning:
 I aim to expand into other interests, experiment with new languages, and deepen my expertise across diverse tech stacks.

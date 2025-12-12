@@ -25,9 +25,7 @@ I’m always open to collaborating, learning, and building useful products.
 
 ## 🌱 Currently Exploring
 
-- Elixir & concurrent programming
 - Godot and Unreal Engine
-- Serverless architectures
 
 ## 💼 Open to Opportunities
 

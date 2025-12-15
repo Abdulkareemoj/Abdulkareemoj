@@ -36,4 +36,4 @@ I’m open to remote roles, freelance gigs, or collaboration opportunities in:
 - DevOps & cloud engineering
 - Game development tooling
 
-If you’re working on something exciting, feel free to reach out.
+If you’re working on something exciting, feel free to reach out on [Linkedin](https://www.linkedin.com/in/abdulkareem-ojerinde/) or [Discord](https://discord.com/users/298051464280932354).

@@ -1,7 +1,7 @@
 ## Hello there!, I'm Abdulkareem 👋
 
 Full-Stack Developer passionate about web development, Game Development, DevOps/Cloud engineering, and Operating Systems.
-Right now, I’m building full-stack applications like [Foreum](https://foreum.vercel.app), a self hostable all-in-one solution for building engaging community spaces, [freader](https://github.com/freader), a Multi platform ebook reader built with AvaloniaUI for desktop and mobile devices and also a Bookmark Manager and RSS Reader tool in one while exploring game engines mainly Godot and Unreal Engine.
+Right now, I’m building full-stack applications like [Foreum](https://foreum.vercel.app), a self hostable all-in-one solution for building engaging community spaces, [freader](https://github.com/freader), a Multi platform ebook reader built with Kotlin Multi Platform for desktop and mobile devices and also a Bookmark Manager and RSS Reader tool in one while exploring game engines mainly Godot and Unreal Engine.
 
 I’m always open to collaborating, learning, and building useful products.
 
@@ -34,6 +34,6 @@ I’m open to remote roles, freelance gigs, or collaboration opportunities in:
 - Full-stack development
 - Backend engineering
 - DevOps & cloud engineering
-- Game development tooling
+- Game development
 
 If you’re working on something exciting, feel free to reach out on [Linkedin](https://www.linkedin.com/in/abdulkareem-ojerinde/) or [Discord](https://discord.com/users/298051464280932354).
